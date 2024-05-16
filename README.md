@@ -32,24 +32,8 @@ I am a third year Mathematics-Computer Science student at UC San Diego! Go trito
 </p>
 
 
-### Badges
-
-<a href="https://github.com/MauricioESerrano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioESerrano&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-## Here are some stats!
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MauricioESerrano&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioESerrano&layout=compact&hide=css,html,jupyter%20notebook&langs_count=5&hide_border=true&card_width=450&bg_color=FFFFFF00&title_color=B3B3B3&text_color=B3B3B3)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
+| <a href="https://github.com/MauricioESerrano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MauricioESerrano&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mauricio's github stats" /></a> | <a href="https://github.com/MauricioESerrano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioESerrano&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
-
-
-<!--
-[![Mauricio's github stats](https://github-readme-stats.vercel.app/api?username=derryl0925&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-**MauricioESerrano/MauricioESerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
