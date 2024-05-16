@@ -5,9 +5,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-I'm a second year Computer Engineering and Cognitive Science (Machine Learning) student at UC San Diego 🔱. I love working with computers within software roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
-
-I am a third year Mathematics-Computer Science student at UC San Diego! Go triton 🔱! I have always been an avid tech user ever since I was young, especially in computers. I also love mathematics so naturally I gravitate towards machine learning as it is facinating to finally see the real-world application to all the mathematical principles we've learned through the years! Thanks for checking out my profile!
+I am a third year Mathematics-Computer Science student at UC San Diego! Go triton 🔱! I have always been an avid tech user ever since I was young, especially in computers. I love that I am finally able to understand the intricate and complex structures behind software as it was always an enigma to my young mind. I also love mathematics so naturally I gravitate towards machine learning as it is facinating to finally see the real-world application to all the mathematical principles we've learned through the years! Thanks for checking out my profile!
 
 
 * 🌍  I'm based in San Diego, California
