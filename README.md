@@ -32,7 +32,7 @@ I am a third year Mathematics-Computer Science student at UC San Diego! Go trito
 </p>
 
 
-| <a href="https://github.com/MauricioESerrano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MauricioESerrano&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mauricio's github stats" /></a> | <a href="https://github.com/MauricioESerrano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioESerrano&layout=compact&theme=buefy&hide_border=true" /></a> |
+|| <a href="https://github.com/MauricioESerrano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioESerrano&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
