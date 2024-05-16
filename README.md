@@ -34,7 +34,7 @@ I am a third year Mathematics-Computer Science student at UC San Diego! Go trito
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MauricioESerrano&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=test&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioESerrano&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test&layout=compact)
 
