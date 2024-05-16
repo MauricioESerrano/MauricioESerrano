@@ -16,6 +16,7 @@ I am a third year Mathematics-Computer Science student at UC San Diego! Go trito
 <br>
 <br>
 * ✉️  You can contact me at [mauryeserrano@yahoo.com](mailto:mauryeserrano@yahoo.com)
+
 * 🖥️  Check out some of my projects in the repository!
 
 ### Skills
