@@ -8,11 +8,11 @@
 I am a third year Mathematics-Computer Science student at UC San Diego! Go triton 🔱! I have always been an avid tech user ever since I was young, especially in computers. I love that I am finally able to understand the intricate and complex structures behind software as it was always an enigma to my young mind. I also love mathematics so naturally I gravitate towards machine learning as it is facinating to finally see the real-world application to all the mathematical principles we've learned through the years! Thanks for checking out my profile!
 
 ## Some facts about Me!
-* 🌍  I'm based in San Diego, California
-* 🎮  I enjoy playing video games, especially Single player ones!
-* 🍴  My favorite food has to be ceviche!
-* 🏃  I ran the Sketcher's Performance Los Angeles Marathon back in 2017! I was in 7th Grade! [Marathon Photo's!](https://www.marathonfoto.com/Proofs?PIN=U6P757&LastName=SERRANO)
-* 🖥️  Check out some of my pinned projects and repository!
+🌍  I'm based in San Diego, California
+🎮  I enjoy playing video games, especially Single player ones!
+🍴  My favorite food has to be ceviche!
+🏃  I ran the Sketcher's Performance Los Angeles Marathon back in 2017! I was in 7th Grade! [Marathon Photo's!](https://www.marathonfoto.com/Proofs?PIN=U6P757&LastName=SERRANO)
+🖥️  Check out some of my pinned projects and repository!
 
 <br> <br>
 
