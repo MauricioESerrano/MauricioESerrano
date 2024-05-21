@@ -9,9 +9,13 @@ I am a third year Mathematics-Computer Science student at UC San Diego! Go trito
 
 ## Some facts about Me!
 🌍  I'm based in San Diego, California
+
 🎮  I enjoy playing video games, especially Single player ones!
+
 🍴  My favorite food has to be ceviche!
+
 🏃  I ran the Sketcher's Performance Los Angeles Marathon back in 2017! I was in 7th Grade! [Marathon Photo's!](https://www.marathonfoto.com/Proofs?PIN=U6P757&LastName=SERRANO)
+
 🖥️  Check out some of my pinned projects and repository!
 
 <br> <br>
